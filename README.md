@@ -29,6 +29,6 @@
 ## Web app working:
 * The user has to enter the review whose sentiment is to be determined and the application will predict whether the entered review has positive or negative sentiment after the user clicks the predict button.
 
-* To use the web app bulit using streamlit check out [app.py.]https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
+* To use the web app bulit using streamlit check out [app.py.](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
 
 
